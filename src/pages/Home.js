@@ -13,9 +13,9 @@ const Home = () => {
           <p>
             A software developer with passion to learning and creating.
           </p>
-          <LinkedInIcon />
-          <EmailIcon />
-          <GitHubIcon />
+          <a href='https://www.linkedin.com/in/mirshokhid-okilbekov/' target='_blank' rel='noreferrer'><LinkedInIcon /></a>
+          <a href='mailto:okilbekovmirshokhid@gmail.com' target='_blank' rel='noreferrer'><EmailIcon /></a>
+          <a href='https://github.com/okilbekov' target='_blank' rel='noreferrer'><GitHubIcon /></a>
         </div>
       </div>
 

@@ -8,9 +8,9 @@ const Footer = () => {
   return (
     <div className='footer'>
       <div className='socialMedia'>
-        <LinkedInIcon />
-        <GitHubIcon />
-        <InstagramIcon />
+        <a href='https://www.linkedin.com/in/mirshokhid-okilbekov/' target='_blank' rel='noreferrer'><LinkedInIcon /></a>
+        <a href='https://github.com/okilbekov' target='_blank' rel='noreferrer'><GitHubIcon /></a>
+        <a href='https://www.instagram.com/oqilbekov/' target='_blank' rel='noreferrer'><InstagramIcon /></a>
       </div>
       <p>&copy; 2022 okilbekov.me</p>
     </div>

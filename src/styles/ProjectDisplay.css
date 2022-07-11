@@ -25,4 +25,13 @@
 .project svg {
   font-size: 60px;
   color: #3e497a;
+  margin: 30px;
+}
+
+.project.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  margin: 50px !important;
 }
