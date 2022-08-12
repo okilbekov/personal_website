@@ -32,7 +32,7 @@ const Home = () => {
           </li>
           <li className='item'>
             <h2>Languages</h2>
-            <span>JavaScript, C, C++, Python, NoSQL, SQL</span>
+            <span>JavaScript, C, C++, Python, NoSQL</span>
           </li>
         </ol>
       </div>
